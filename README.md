@@ -2,7 +2,7 @@
 
 👉 This work focuses on improving fetal health prediction accuracy using machine learning by handling data imbalance and feature optimization.
 <br>
-1. Introduction
+<h2>1. Introduction</h2>
 
 In this section, we explain the importance of fetal health monitoring during pregnancy.
 
