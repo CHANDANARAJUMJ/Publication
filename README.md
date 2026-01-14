@@ -16,7 +16,7 @@ The goal is to assist doctors with accurate, data-driven predictions
 
 📌 This section sets the motivation and problem statement.
 
-2. Related Work
+<h2>2. Related Work</h2>
 
 Here, we reviewed existing research on fetal health classification.
 
@@ -34,7 +34,7 @@ Literature showed Random Forest consistently performs well for CTG data
 
 📌 This helped us choose suitable models and techniques.
 
-3. Materials and Methods
+<h2>3. Materials and Methods</h2>
 A. Dataset
 
 We used a publicly available CTG dataset from Kaggle.
@@ -101,7 +101,7 @@ Improves overall prediction reliability
 
 📌 This significantly improved model performance.
 
-4. Principal Component Analysis (PCA)
+<h2>4. Principal Component Analysis (PCA)</h2>
 
 PCA was used for dimensionality reduction.
 
@@ -117,7 +117,7 @@ PCA was applied mainly to KNN and Logistic Regression
 
 📌 Tree-based models like Random Forest don’t require PCA.
 
-5. Discussion (Results)
+<h2>5. Discussion (Results)</h2>
 Random Forest
 
 Best performing model
@@ -148,7 +148,7 @@ Performed well after PCA
 
 📌 Random Forest outperformed all others.
 
-6. Limitations
+<h2>6. Limitations</h2>
 
 We also discussed limitations honestly.
 
@@ -162,7 +162,7 @@ Complex relationship between CTG features and fetal health
 
 📌 This shows research maturity.
 
-7. Conclusion
+<h2>7. Conclusion</h2>
 
 We successfully improved fetal health classification.
 
@@ -176,7 +176,7 @@ Model can assist in early detection of fetal distress
 
 📌 The approach improves reliability and accuracy.
 
-8. Future Scope
+<h2>8. Future Scope</h2>
 
 We suggested future improvements.
 
@@ -191,4 +191,4 @@ Deployment in low-resource regions
 📌 Shows real-world impact.
 
 <br>
-“Overall, my research focuses on improving fetal health prediction using machine learning by addressing real-world challenges like data imbalance and feature complexity, with Random Forest showing the best performance.”
+<h2 align="center">“Overall, my research focuses on improving fetal health prediction using machine learning by addressing real-world challenges like data imbalance and feature complexity, with Random Forest showing the best performance.”</h2>
