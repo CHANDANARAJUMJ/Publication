@@ -1,8 +1,8 @@
 <h1 align="center">Optimizing Fetal Health Classification with PCA and SMOTE Techniques<h1></h1>
 
-👉 This work focuses on improving fetal health prediction accuracy using machine learning by handling data imbalance and feature optimization.
-<h1>This can also be accessed by entering the title or the paper<h1>
-<a href="https://share.google/1JzM8sjJS7kdCJs0e">Click Here</a>
+👉 This work focuses on improving fetal health prediction accuracy using machine learning by handling data imbalance and feature optimization.<br>
+<h1>This can also be accessed by entering the title or the paper</h1>h1>
+<h3><a href="https://share.google/1JzM8sjJS7kdCJs0e">Click Here</a></h3>
 <br>
 <h2>1. Introduction</h2>
 
